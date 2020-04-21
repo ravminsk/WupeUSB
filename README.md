@@ -1,3 +1,3 @@
 # WupeUSB
 
-запускать с правами root
+run as root
